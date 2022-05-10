@@ -107,7 +107,7 @@ Below is a screenshot of the communication instruction execution.
    <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-    <img src="https://drive.google.com/file/d/1hP_YtMU-BWqfx5k7z-W7_cZhj4KO9O5d/view?usp=sharing" alt="Logo" width="200" height="200">
+    <img src="https://drive.google.com/file/d/1hP_YtMU-BWqfx5k7z-W7_cZhj4KO9O5d/view?usp=sharing" alt="Capture1" width="200" height="200">
   </a>
 </div>
 <br />
@@ -124,7 +124,7 @@ Below is a screenshot of the execution of the statement with the termination .la
    <br /> 
   <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-    <img src="https://drive.google.com/file/d/1pQrN6fBek3kmFJqfEUWO53zpm5eApms6/view?usp=sharing" alt="Logo" width="200" height="200">
+    <img src="https://drive.google.com/file/d/1pQrN6fBek3kmFJqfEUWO53zpm5eApms6/view?usp=sharing" alt="Capture2" width="200" height="200">
   </a>
 </div>
 <br /> 
