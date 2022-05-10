@@ -101,10 +101,26 @@ clear
 ```sh
 roslaunch open_manipulator_controller open_manipulator_controller.launch usb_port:=/dev/ttyACM0 baud_rate:=1000000
 ```
+When the communication launch command is run, an overview of the parameters and nodes that are recognized by ROS is displayed. Then the Dynamixel motors are listed with their ID and model, as well as showing that the communication was successfully initiated.
+Below is a screenshot of the communication instruction execution.
+
+<a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
+    <img src="https://drive.google.com/file/d/1hP_YtMU-BWqfx5k7z-W7_cZhj4KO9O5d/view?usp=sharing" alt="capture1" width="200" height="200">
+  </a>
+
 8. Run file Pick and Place (in new Tab)
 ```sh
 roslaunch open_manipulator_teleop open_manipulator_teleop_keyboard.launch
 ```
+When executing the launch program, an overview of parameters and nodes is displayed in a similar way as in the communication instruction.
+Subsequently, a short description of what the robot does, the angles of each joint and the position of the end effector is shown.
+It then displays the moves it makes, being 1-8 displacement moves, g the gripper opening and f the gripper closing.
+Below is a screenshot of the execution of the statement with the termination .launch.
+ 
+ <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
+    <img src="https://drive.google.com/file/d/1pQrN6fBek3kmFJqfEUWO53zpm5eApms6/view?usp=sharing" alt="capture2" width="200" height="200">
+  </a> 
+
 ## Usage
 
 <p align="right">(<a href="#top">back to top</a>)</p>
