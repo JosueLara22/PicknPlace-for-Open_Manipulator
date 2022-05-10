@@ -107,7 +107,7 @@ Below is a screenshot of the communication instruction execution.
    <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-<img src="Images/comunicacionexitosaconrobot.png" alt="Captura1" width="500" height="500">
+<img src="Images/comunicacionexitosaconrobot.png" alt="Captura1" width="600" height="900">
   </a>
 </div>
 <br />
@@ -124,7 +124,7 @@ Below is a screenshot of the execution of the statement with the termination .la
   <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-<img src="Images/programapicknplacecorriendoexitosamente.png" alt="Captura2" width="500" height="500">
+<img src="Images/programapicknplacecorriendoexitosamente.png" alt="Captura2" width="600" height="900">
   </a>
 </div>
 <br />
@@ -137,7 +137,7 @@ Video link: [Implementation video](https://winliveudlap-my.sharepoint.com/:v:/g/
 <br />
 <div align="center">
   <a href="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png">
-    <img src="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png" alt="Logo" width="500" height="500">
+    <img src="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png" alt="Logo" width="50" height="500">
   </a>
 </div>
 <br />
