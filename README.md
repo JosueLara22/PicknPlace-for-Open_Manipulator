@@ -70,7 +70,7 @@ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_
 chmod 755 ./install_ros_noetic.sh
 bash ./install_ros_noetic.sh
 ```  
-4. Install controlers and pakages
+4. Install controllers and pakages
 ```sh
 source ~/.bashrc	 
 sudo apt-get install ros-noetic-ros-controllers ros-noetic-gazebo* ros-noetic-moveit* ros-noetic-industrial-core	 
