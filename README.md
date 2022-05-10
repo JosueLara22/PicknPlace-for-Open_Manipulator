@@ -149,9 +149,9 @@ What was changed from the original project is this file, where the joint positio
 The description that is shown in the console when executing the launch program was also modified so that it sent the positions of the joints, the location of the grippper and a small description of the program along with the movement that it was executing.
 The program was also modified so that, instead of waiting for the user's response sent through the keyboard, the characters were set in the main program.
 The change of these aspects resulted in the modification of the following functions:
--void OpenManipulatorTeleop::setGoal(char ch) 
--void OpenManipulatorTeleop::printText()
--int main(int argc, char **argv)
+- void OpenManipulatorTeleop::setGoal(char ch) 
+- void OpenManipulatorTeleop::printText()
+- int main(int argc, char **argv)
 
 ## Contact
 
