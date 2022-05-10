@@ -45,7 +45,8 @@ Project for the Kinematics and Dynamics of Robots course at the Universidad de l
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Usage and Implementation Video">Usage</a></li>
+    <li><a href="#Modifications to the original project">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -133,8 +134,11 @@ Below is a screenshot of the execution of the statement with the termination .la
 
 <h3 align="left">Pick and Place for Open ManipulatorX YOUTUBE Video</h3>
 
+<div align="center">
+  
 [![Alt text](https://img.youtube.com/vi/eiSbc5Rm95E/0.jpg)](https://www.youtube.com/watch?v=eiSbc5Rm95E)
-
+  
+</div>
 <br />
 
 
@@ -153,6 +157,10 @@ The change of these aspects resulted in the modification of the following functi
 ## Contact
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+Authors:
+Josué Lara Ruiz - josue.lararz@udlap.mx
+Aldo Córdova Gonzalez - aldo.cordovagz@udlap.mx
+Sarah D. Vásquez - sarah.vasquezmo@udlap.mx
 
 Project Link: [github.com/JosueLara22/PicknPlace-for-Open_Manipulator](github.com/JosueLara22/PicknPlace-for-Open_Manipulator)
 ## Enjoy, have fun and improve the program!
