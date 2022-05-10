@@ -131,17 +131,12 @@ Below is a screenshot of the execution of the statement with the termination .la
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<div align="center">
+
 [![Alt text](https://img.youtube.com/vi/eiSbc5Rm95E/0.jpg)](https://www.youtube.com/watch?v=eiSbc5Rm95E)
 
 <br />
 
 
-  <a href="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png">
-    <img src="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png" alt="Logo" width="500" height="500">
-  </a>
-</div>
-<br />
 
 ## Modifications to the original project.
 The robotis project was taken as a basis for the teleoperation of the robot through the computer keyboard mentioned above.
