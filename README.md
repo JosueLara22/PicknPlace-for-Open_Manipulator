@@ -46,10 +46,10 @@ Project for the Kinematics and Dynamics of Robots course at the Universidad de l
       </ul>
     </li>
     <li>
-      <a href="#Usage and Implementation Video">Usage and Implementation Video</a>
+      <a href="#usage-and-implementation-video">Usage and Implementation Video</a>
     </li>   
     <li>
-      <a href="#Modifications to the original project">Modifications to the original project</a>
+      <a href="#modifications-to-the-original-project">Modifications to the original project</a>
     </li>  
     <li>
       <a href="#contact">Contact</a>
@@ -149,7 +149,7 @@ Below is a screenshot of the execution of the statement with the termination .la
 
 
 
-## Modifications to the original project.
+## Modifications to the original project
 The robotis project was taken as a basis for the teleoperation of the robot through the computer keyboard mentioned above.
 In the main file named "open_manipulator_teleop_keyboard.cpp" located in the /open_manipulator/open_manipulator_teleop/src/ folder, the instructions that commands the robot's movements were found, determined by a case in which each character or option sent the robot different positions of the joints.
 What was changed from the original project is this file, where the joint positions were changed to those that described the team's pick and place implementation.
