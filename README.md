@@ -157,12 +157,11 @@ The change of these aspects resulted in the modification of the following functi
 ## Contact
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-Authors:
-
+Authors:  <br />
 Josué Lara Ruiz - josue.lararz@udlap.mx
-
+  <br />
 Aldo Córdova Gonzalez - aldo.cordovagz@udlap.mx
-
+  <br />
 Sarah D. Vásquez - sarah.vasquezmo@udlap.mx
 
 Project Link: [github.com/JosueLara22/PicknPlace-for-Open_Manipulator](github.com/JosueLara22/PicknPlace-for-Open_Manipulator)
