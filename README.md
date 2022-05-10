@@ -107,7 +107,7 @@ Below is a screenshot of the communication instruction execution.
    <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-<img src="images/comunicacionexitosaconrobot.png" alt="Captura1" width="80" height="80">
+<img src="Images/comunicacionexitosaconrobot.png" alt="Captura1" width="80" height="80">
   </a>
 </div>
 <br />
@@ -124,7 +124,7 @@ Below is a screenshot of the execution of the statement with the termination .la
   <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-<img src="images/programapicknplacecorriendoexitosamente.png" alt="Captura2" width="80" height="80">
+<img src="Images/programapicknplacecorriendoexitosamente.png" alt="Captura2" width="80" height="80">
   </a>
 </div>
 <br />
