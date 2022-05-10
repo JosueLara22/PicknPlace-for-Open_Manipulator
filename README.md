@@ -55,7 +55,7 @@ Project for the Kinematics and Dynamics of Robots course at the Universidad de l
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Prerequisites
-For the implementation you will need Ubuntu 20.04 on your computer.
+For the implementation you will need Ubuntu 20.04 on your computer (not recommended on Virtual Box).
 ### Installation
 1. Install ROS Noetic: User must be admin to proceed
 2. Install Github
