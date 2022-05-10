@@ -116,7 +116,7 @@ Below is a screenshot of the communication instruction execution and displayed s
 roslaunch open_manipulator_teleop open_manipulator_teleop_keyboard.launch
 ```
 When executing the launch program, an overview of parameters and nodes is displayed in a similar way as in the communication instruction.
-Subsequently, a short description of what instruction the robot is doing from Pick and Place program, the angles of each joint and the position of the end effector is shown.Being 1-8 displacement moves, g the gripper opening and f the gripper closing.
+Subsequently, a short description of what instruction the robot is doing from Pick and Place program, the angles of each joint and the position of the end effector is shown. Being 1-8 displacement moves, g the gripper opening and f the gripper closing.
 Below is a screenshot of the execution of the statement with the termination .launch.
 
   <br />
