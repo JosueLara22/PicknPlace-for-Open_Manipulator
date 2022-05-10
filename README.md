@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/105239023/167539919-e10fc684-272a-4aec-9d63-01f13786bb8c.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">PicknPlace-for-Open_Manipulator</h3>
