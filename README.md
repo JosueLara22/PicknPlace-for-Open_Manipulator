@@ -100,8 +100,8 @@ clear
 ```sh
 roslaunch open_manipulator_controller open_manipulator_controller.launch usb_port:=/dev/ttyACM0 baud_rate:=1000000
 ```
-When the communication launch command is run, an overview of the parameters and nodes that are recognized by ROS is displayed. Then the Dynamixel motors are listed with their ID and model, as well as showing that the communication was successfully initiated.
-Below is a screenshot of the communication instruction execution.
+When the communication launch command has correctly run, an overview of the parameters and nodes that are recognized by ROS is displayed. The Dynamixel motors are listed with their corresponding ID and model, as well as showing that the communication was successfully initiated.
+Below is a screenshot of the communication instruction execution and displayed summary.
 
    <br />
 <div align="center">
@@ -116,8 +116,7 @@ Below is a screenshot of the communication instruction execution.
 roslaunch open_manipulator_teleop open_manipulator_teleop_keyboard.launch
 ```
 When executing the launch program, an overview of parameters and nodes is displayed in a similar way as in the communication instruction.
-Subsequently, a short description of what the robot does, the angles of each joint and the position of the end effector is shown.
-It then displays the moves it makes, being 1-8 displacement moves, g the gripper opening and f the gripper closing.
+Subsequently, a short description of what instruction the robot is doing from Pick and Place program, the angles of each joint and the position of the end effector is shown.Being 1-8 displacement moves, g the gripper opening and f the gripper closing.
 Below is a screenshot of the execution of the statement with the termination .launch.
 
   <br />
