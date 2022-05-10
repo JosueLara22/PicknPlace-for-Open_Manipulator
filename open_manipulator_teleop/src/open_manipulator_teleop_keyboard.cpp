@@ -12,6 +12,12 @@
 * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 * See the License for the specific language governing permissions and
 * limitations under the License.
+*
+* Authors of the teleop operation of Open Manipulator robot with keyboard
+* Darby Lim, Hye-Jong KIM, Ryan Shim, Yong-Ho Na
+*
+* Authors of the pick and place implementation with the Open Manipulator robot
+* based on the teleoperation program developed by robotis 
 *******************************************************************************/
 
 /* Authors: Darby Lim, Hye-Jong KIM, Ryan Shim, Yong-Ho Na */
