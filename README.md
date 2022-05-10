@@ -142,10 +142,10 @@ Video link: [Implementation video](https://winliveudlap-my.sharepoint.com/:v:/g/
 
 ## Modifications to the original project.
 The robotis project was taken as a basis for the teleoperation of the robot through the computer keyboard mentioned above.
-In the main file named "open_manipulator_teleop_keyboard.cpp" located in the /open_manipulator/open_manipulator_teleop/src/ folder, the instructions that command the robot's movements were found, determined by a case in which each character or option sent the robot different positions of the joints.
+In the main file named "open_manipulator_teleop_keyboard.cpp" located in the /open_manipulator/open_manipulator_teleop/src/ folder, the instructions that commands the robot's movements were found, determined by a case in which each character or option sent the robot different positions of the joints.
 What was changed from the original project is this file, where the joint positions were changed to those that described the team's pick and place implementation.
 The description that is shown in the console when executing the launch program was also modified so that it sent the positions of the joints, the location of the grippper and a small description of the program along with the movement that it was executing.
-The program was also modified so that, instead of waiting for the user's response sent through the keyboard, the characters were set in the main program.
+The program was also modified so that, instead of waiting for the to press any key on the keyboard, as the original program does, the characters were automatically set in the main program. 
 The change of these aspects resulted in the modification of the following functions:
 - void OpenManipulatorTeleop::setGoal(char ch) 
 - void OpenManipulatorTeleop::printText()
