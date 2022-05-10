@@ -84,7 +84,7 @@ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/open_manipulator_msgs.g
 git clone -b noetic-devel https://github.com/ROBOTIS-GIT/open_manipulator_simulations.git
 git clone https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git
 ```
-6. Remove original file	
+6. Remove original file	and replace it with PicknPlace program
 ```sh
 cd ~/catkin_ws/src/open_manipulator/open_manipulator_teleop/src/
 rm open_manipulator_teleop_keyboard.cpp
