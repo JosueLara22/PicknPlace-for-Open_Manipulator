@@ -1,3 +1,4 @@
+<div id="top"></div>
 <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
@@ -13,6 +14,8 @@
     <br />
   </p>
 </div>
+
+
 
 ## About The Project
 This is a pick and place implementation for the Open Manipulator X robot using Ubutntu 20.04, ROS Noetic and the keyboard teleoperation tutorial as the foundation.
@@ -48,6 +51,9 @@ Project for the Kinematics and Dynamics of Robots course at the Universidad de l
 </details>
 
 ## Getting Started
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Prerequisites
 For the implementation you will need Ubuntu 20.04 on your computer.
 ### Installation
@@ -95,13 +101,26 @@ clear
 ```sh
 roslaunch open_manipulator_controller open_manipulator_controller.launch usb_port:=/dev/ttyACM0 baud_rate:=1000000
 ```
-8.Run file Pick and Place (in new Tab)
+8. Run file Pick and Place (in new Tab)
 ```sh
 roslaunch open_manipulator_teleop open_manipulator_teleop_keyboard.launch
 ```
 ## Usage
-Make the connections of the robot 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+Video link: [Implementation video](https://winliveudlap-my.sharepoint.com/:v:/g/personal/sarah_vasquezmo_udlap_mx/EaZCbYp65i5FrppyspDonGIB5Cu1J3-BTYYwI4DeImPdMg?e=WbegII)
+<br />
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png">
+    <img src="https://user-images.githubusercontent.com/105239023/167538435-419e82dc-3050-4f19-b23e-4a53e5203ad2.png" alt="Logo" width="500" height="500">
+  </a>
+</div>
+<br />
 
 ## Contact
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 Project Link: [github.com/JosueLara22/PicknPlace-for-Open_Manipulator](github.com/JosueLara22/PicknPlace-for-Open_Manipulator)
 ## Enjoy, have fun and improve the program!
