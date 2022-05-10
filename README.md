@@ -62,8 +62,7 @@ For the implementation you will need Ubuntu 20.04 on your computer.
 ```sh 
  sudo apt-get install git-all
 ```
-3. Install ROS Noetic tools
-Copy this instructions on terminal
+3. Install ROS Noetic tools (Copy all these instructions on terminal)
 ```sh 
 sudo apt update 
 wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_noetic.sh
