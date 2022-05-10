@@ -107,7 +107,7 @@ Below is a screenshot of the communication instruction execution.
    <br />
 <div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-    <img src="https://drive.google.com/file/d/1hP_YtMU-BWqfx5k7z-W7_cZhj4KO9O5d/view?usp=sharing" alt="Capture1" width="200" height="200">
+<img src="images/comunicacionexitosaconrobot.png" alt="Captura1" width="80" height="80">
   </a>
 </div>
 <br />
@@ -121,13 +121,13 @@ Subsequently, a short description of what the robot does, the angles of each joi
 It then displays the moves it makes, being 1-8 displacement moves, g the gripper opening and f the gripper closing.
 Below is a screenshot of the execution of the statement with the termination .launch.
 
-   <br /> 
-  <div align="center">
+  <br />
+<div align="center">
   <a href="github.com/JosueLara22/PicknPlace-for-Open_Manipulator">
-    <img src="https://drive.google.com/file/d/1pQrN6fBek3kmFJqfEUWO53zpm5eApms6/view?usp=sharing" alt="Capture2" width="200" height="200">
+<img src="images/programapicknplacecorriendoexitosamente.png" alt="Captura2" width="80" height="80">
   </a>
 </div>
-<br /> 
+<br />
 
 ## Usage
 
