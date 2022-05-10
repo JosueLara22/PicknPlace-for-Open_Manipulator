@@ -45,9 +45,15 @@ Project for the Kinematics and Dynamics of Robots course at the Universidad de l
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Usage and Implementation Video">Usage and Implementation Video</a></li>
-    <li><a href="#Modifications to the original project">Modifications to the original project</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li>
+      <a href="#Usage and Implementation Video">Usage and Implementation Video</a>
+    </li>   
+    <li>
+      <a href="#Modifications to the original project">Modifications to the original project</a>
+    </li>  
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
   </ol>
 </details>
 
